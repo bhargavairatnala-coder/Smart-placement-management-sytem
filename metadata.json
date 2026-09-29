@@ -1,0 +1,8 @@
+{
+  "name": "Smart Placement Portal",
+  "description": "An all-in-one platform for students to manage placement preparation, job applications, and interview progress efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
